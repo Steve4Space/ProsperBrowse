@@ -24,6 +24,8 @@
     <Compile Include="ProsperBrowse.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="cookies.txt" />
+    <Content Include="license.md" />
     <Content Include="settings.yaml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
